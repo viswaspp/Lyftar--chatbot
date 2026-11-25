@@ -1,9 +1,9 @@
-﻿# Aegis Relay — Start Script
+# Lyftr — Start Script
 # Usage: Right-click in Explorer -> "Run with PowerShell", OR paste into a PowerShell terminal
 
 Write-Host ""
 Write-Host "============================================" -ForegroundColor Cyan
-Write-Host "  Aegis Relay — Local Startup" -ForegroundColor Cyan
+Write-Host "  Lyftr — Local Startup" -ForegroundColor Cyan
 Write-Host "============================================" -ForegroundColor Cyan
 Write-Host ""
 

@@ -1,4 +1,4 @@
-# Lyftr Relay — Resilient LLM Chat Gateway
+# Lyftr — Resilient LLM Chat Gateway
 
 ## 1. Live URLs
 

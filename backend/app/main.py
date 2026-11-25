@@ -46,7 +46,7 @@ async def lifespan(app: FastAPI):
     app.state.db = db
 
     logger.info(
-        "Aegis Relay started — %d keys configured, DB at %s",
+        "Lyftr started — %d keys configured, DB at %s",
         len(settings.api_keys),
         settings.sqlite_path,
     )
@@ -56,7 +56,7 @@ async def lifespan(app: FastAPI):
 
 def create_app() -> FastAPI:
     app = FastAPI(
-        title="Aegis Relay — Resilient LLM Chat Gateway",
+        title="Lyftr — Resilient LLM Chat Gateway",
         version="1.0.0",
         lifespan=lifespan,
         docs_url="/docs",
