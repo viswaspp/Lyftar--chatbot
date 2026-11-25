@@ -1,4 +1,4 @@
-# Aegis Relay — Resilient LLM Chat Gateway
+# Lyftr Relay — Resilient LLM Chat Gateway
 
 ## 1. Live URLs
 
